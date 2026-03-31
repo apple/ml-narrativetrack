@@ -1,6 +1,6 @@
 # NarrativeTrack: Evaluating Entity-Centric Reasoning for Narrative Understanding
 
-This software project accompanies the research paper, [NarrativeTrack: Evaluating Entity-Centric Reasoning for Narrative Understanding](https://arxiv.org/abs/2601.01095).
+This software project accompanies the research paper, [NarrativeTrack: Evaluating Entity-Centric Reasoning for Narrative Understanding](https://arxiv.org/abs/2601.01095v2).
 
 ## NarrativeTrack Overview
 In the pursuit of building VideoLLMs that understand not only what happens but who does what, when, and where, NarrativeTrack introduces the first benchmark explicitly designed to evaluate **narrative understanding in videos through fine-grained entity tracking**.
